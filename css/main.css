@@ -71,7 +71,7 @@ blockquote footer > cite {
 
 ol {
   list-style-type: lower-greek;
-  font-size: 1.125rem
+  font-size: 1.125rem;
 }
 
 h2 + p {
