@@ -2,7 +2,7 @@ html {
   box-sizing: border-box;
   background-color: #c9b5ab;
   line-height: 1.5;
-  font-family: "PT Serif",serif;
+  font-family: "PT Serif", serif;
 }
 
 *, *::before, *::after {
@@ -51,7 +51,7 @@ figcaption {
   text-align: center;
 }
 
-figure+p {
+figure + p {
   font-size: 1.125rem;
   font-weight: bold;
 }
