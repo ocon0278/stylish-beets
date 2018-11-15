@@ -1,16 +1,7 @@
 html {
-  box-sizing: border-box;
   background-color: #c9b5ab;
   line-height: 1.5;
   font-family: "PT Serif", serif;
-}
-
-*, *::before, *::after {
-  box-sizing: inherit;
-}
-
-body {
-  width: 50%;
 }
 
 h1, h2 {
